@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+# Secrets (never commit cookies)
+.env
+*.secret
+# Raw note scans waiting to be processed (remove this line if you want to keep scans in the repo)
+notes-inbox/*
+!notes-inbox/.gitkeep
+# OS
+.DS_Store
+Thumbs.db
