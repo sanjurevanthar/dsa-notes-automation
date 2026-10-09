@@ -11,9 +11,9 @@ to optimal, my handwritten notes, a dry run, and my accepted solution.
 
 | # | Pattern | Solved |
 |---|---|---|
-| — | *(updated automatically as problems are added)* | 0 |
+| 02 | [Two Pointers](./02-two-pointers/README.md) | 11 |
 
-**Total solved: 0**
+**Total solved: 11**
 
 ## 🗂️ Structure
 ```
